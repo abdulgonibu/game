@@ -1,0 +1,74 @@
+.logo img{
+
+height: 50px !important;
+width: 300px;
+
+}
+
+
+.header{
+    height: 50px !important;
+
+}
+
+.header marquee{
+    color: blue !important;
+}
+
+
+/* .header .centerize .menu li{
+
+box-shadow: 2px 2px
+; */
+
+}
+
+.body .centerize .head img{
+    height: 600px !important;
+}
+
+.mrqdsgn{
+    font-size: 20px !important;
+    font-weight: 600;
+    color: chartreuse !important;
+}
+
+.join_wrapper .sign img{
+    height: 80px;
+}
+
+.wncnc h3{
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.wncnc h4{
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+
+.wncnc {
+display: flex;
+justify-content: space-around;
+background-color: #ffc107;
+margin: 10px 0px;
+padding: 0px !important;
+    
+}
+
+@media screen and (max-width: 900px){
+    .header .centerize .menu li {
+        color: #fff;
+        list-style: none;
+        font-size: 12px;
+        font-weight: 400;
+        cursor: pointer;
+        background: green;
+        padding: 4px;
+        margin: 2px;
+    }
+}
+
+
